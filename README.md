@@ -1,2 +1,2 @@
 # Airlines
-Airline IATA codes
+Airlines IATA codes
