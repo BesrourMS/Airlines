@@ -1,4 +1,4 @@
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://github.com/besrourms/Airlines/blob/main/LICENSE)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](https://github.com/BesrourMS/Airlines/blob/master/LICENSE)
 [![](https://data.jsdelivr.com/v1/package/gh/besrourms/Airlines/badge)](https://www.jsdelivr.com/package/gh/besrourms/Airlines)
 
 # Airlines
