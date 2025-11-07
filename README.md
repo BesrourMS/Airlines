@@ -2,8 +2,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/BesrourMS/Airlines)
 [![](https://data.jsdelivr.com/v1/package/gh/besrourms/Airlines/badge)](https://www.jsdelivr.com/package/gh/besrourms/Airlines)
 [![Support Palestine](https://raw.githubusercontent.com/Ademking/Support-Palestine/main/Support-Palestine.svg)](https://www.map.org.uk)
-[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/BesrourMS)
-
 
 # Airlines
 Airlines IATA codes
@@ -13,3 +11,5 @@ The JSON file is available via jsDelivr CDN
 ```js
 https://cdn.jsdelivr.net/gh/besrourms/airlines@latest/airlines.json
 ```
+
+[![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/BesrourMS)
